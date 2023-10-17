@@ -24,4 +24,4 @@ There were several key areas of improvement, however, these were mainly due to t
 
 ## What This Repository Contains
 
-The debugatti.ipynb notebook contains the code to train and test the models. Running the model on the car requires running the code from the command line, and requires the SunFounder PiCar to run it on. Results figures and model summaries will be added soon.
+The debugatti.ipynb notebook contains the code to train and test the models. Running the model on the car requires running the code from the command line, and requires the SunFounder PiCar to run it on. The learning curves and final model architectures are also included. 
